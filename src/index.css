@@ -1,0 +1,19 @@
+#lblAmount, #lblYear, #lblRate {
+    border:1px solid black;
+    width:100px;
+    height: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#rangeAmount, #rangeYear, #rangeRate {
+    width: 150px;
+    padding: 5px;
+}
+.box {
+    border:2px solid black;
+    box-shadow: 4px 4px 3px gray;
+    padding: 20px;
+}
